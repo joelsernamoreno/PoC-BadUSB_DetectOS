@@ -14,7 +14,7 @@ Arduino Leonardo, ProMicro, Lilypad USB, etc.
 3. FingerprintUSBHost library
 4. Basic example code: https://github.com/joelsernamoreno/PoC-BadUSB_DetectOS
 
-## Instalation:
+## Installation:
 
 1. Download the arduino IDE and this repository.
 2. Copy the Keyboard library to the arduino library directory.
